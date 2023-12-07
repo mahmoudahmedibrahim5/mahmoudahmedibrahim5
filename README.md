@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### <p align="center">Visitor counter<p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/Ged0oo/count.svg" />
+  <img src="https://profile-counter.glitch.me/mahmoudahmedibrahim5/count.svg" />
 </p>
 
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <a href="mailto:mohmmednagy@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30" width="30" /></a>
 <a href="https://fb.com/official.mohamed.nagy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="official.mohamed.nagy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mohmmednagy2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohmmednagy2020" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ged0oo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ged0oo" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mahmoudahmedibrahim5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahmoudahmedibrahim5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ged0oo&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudahmedibrahim5&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" />
 </div>
 
 
@@ -73,8 +73,8 @@ Here are some ideas to get you started:
 
 # My Status
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ged0oo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ged0oo&layout=compact&langs_count=20&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoudahmedibrahim5&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudahmedibrahim5&layout=compact&langs_count=20&theme=transparent"/>
 </div>
 
 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 # My Contributions
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ged0oo&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahmoudahmedibrahim5&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
