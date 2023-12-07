@@ -1,9 +1,12 @@
 # Hi there 👋
 
+
 <div align="center">
   
+  ![](header.png)
+  
   <!--### I am an Undergraduate Embedded systems Engineer from Egypt.-->
-  ### I am a student in the faculty of Engineering in Electronics & Communication Department, at Alexandria University, Eager about Embedded systems and robotics
+  ### Engineering Student in Electronics & Communication Department, at Alexandria University, Eager about Embedded systems and robotics
   
 </div>
 
