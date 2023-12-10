@@ -55,6 +55,6 @@
 ## 📈 My Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mahmoudahmedibrahim5&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mahmoudahmedibrahim5&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" width="500" alt="streak graph"  />
  <img height="220em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudahmedibrahim5&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>
