@@ -5,9 +5,9 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=40&center=true&vCenter=true&width=1000&lines=Hi,+Glad+To+See+You+Here;I'm+Mahmoud+Ahmed;Electronics+Engineering+Student;Egyptian+Embedded+Systems+Engineer" alt="Electronics Engineering Student, Egyptian Embedded Systems Engineer"></a>
 </div>
 
- <img width="300" align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+ <img width="250" align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-## About Me
+# About Me
 - 🔭 I’m currently working on - Warehouse Robot Project.
 - 🌱 I’m currently improving my problem-solving skills
 - 💬 Ask me about anything, I am happy to help
