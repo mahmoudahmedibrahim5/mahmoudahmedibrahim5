@@ -9,7 +9,7 @@
 
 
 ## About Me
-- 🔭 I’m currently working as Embedded Software Freelancer.
+- 🔭 I’m currently working as an Embedded Software Freelancer.
 - 🌱 I’m currently Learning Embedded Linux.
 - 💬 Ask me about anything, I am happy to help
 - ⚡ Fun fact - I'm fairly good at chess
