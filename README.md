@@ -9,8 +9,8 @@
 
 
 ## About Me
-- 🔭 I’m currently working on - Warehouse Robot Project.
-- 🌱 I’m currently improving my problem-solving skills
+- 🔭 I’m currently working as Embedded Software Freelancer.
+- 🌱 I’m currently Learning Embedded Linux.
 - 💬 Ask me about anything, I am happy to help
 - ⚡ Fun fact - I'm fairly good at chess
 
